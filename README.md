@@ -51,7 +51,7 @@ Steps :
 
 <!-- YOUTUBE:START -->
 - [Medical Visual Question Answering](https://github.com/uakarsh/med-vqa)
-- [Customer Segmentation (Unsupervised Learning) (This repository)](https://www.kaggle.com/akarshu121/customer-segmentation/notebook)
+- [Customer Segmentation (Unsupervised Learning) (This repository)](https://github.com/uakarsh/customer-segmentation)
 - [Brain MRI Segmentation (Classification and Segmentation)](https://www.kaggle.com/akarshu121/brain-segmentation)
 - [Image Classification (Cancer detection)](https://github.com/uakarsh/CNN-for-Beginners)
 - [Movie Recomendation using Cosine Similarity](https://github.com/uakarsh/Movie-Recommendation-Engine)
